@@ -1,4 +1,4 @@
-package common_elements.arrays;
+package com.arrays.common_elements;
 
 import java.util.HashSet;
 import java.util.Set;

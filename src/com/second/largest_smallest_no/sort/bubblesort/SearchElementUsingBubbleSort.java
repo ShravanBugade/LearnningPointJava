@@ -7,8 +7,7 @@ public class SearchElementUsingBubbleSort {
 		System.out.println();
 		System.out.println(bubbleSort(arr));
 		getval(arr);
-		
-	
+
 	}
 
 	public static void getval(int[] array) {
