@@ -4,3 +4,4 @@
 4.Pattern Problem 1
 5.Finding Word Occurences   "I am Java"  o/p Java :1,I:1,am:1
 6.Character Occurences In string i/p shravan o/p  s:1 ,h:1,r:1,a:2,v:1,n:1
+7.Find Max & Min In array 
